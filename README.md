@@ -1,1 +1,2 @@
-# alx-low_level_programming
+Projects in C programming language
+Running and executing different commands in C
